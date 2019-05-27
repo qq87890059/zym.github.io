@@ -1,0 +1,896 @@
+<!doctype html>
+<html class="has-no-js" data-template="about" lang="en" data-theme="light">
+<head>
+    <base href="">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Muraflex offers European-inspired design-savvy demountable glass office wall system and freestanding pods to create a distinguished work environment, bringing elegance and purpose together. Our 6 lines are: MIMO, FINO, EXPO, PLANIKA, ARCO and ZITTO. ">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#f2f2f2">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://muraflex.com/assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicon.png">
+    <link rel="manifest" href="https://muraflex.com/site.webmanifest">
+    <link href="about-us" rel="canonical">
+
+    <title>About us — Muraflex</title>
+    
+    <meta name="description" content="Muraflex offers European-inspired design-savvy demountable glass office wall system and freestanding pods to create a distinguished work environment, bringing elegance and purpose together. Our 6 lines are: MIMO, FINO, EXPO, PLANIKA, ARCO and ZITTO. ">
+    
+    <meta property="og:type"        content="website">
+    <meta property="og:url"         content="https://muraflex.com/en/about-us">
+    <meta property="og:site_name"   content="Muraflex">
+    <meta property="og:title"       content="About us">
+    <meta property="og:image"       content="https://muraflex.com/uploads/sections/About/ABOUT.jpg">
+    <meta property="og:description" content="Muraflex offers European-inspired design-savvy demountable glass office wall system and freestanding pods to create a distinguished work environment, bringing elegance and purpose together. Our 6 lines are: MIMO, FINO, EXPO, PLANIKA, ARCO and ZITTO. ">
+    
+    
+    <meta property="twitter:card"        content="summary">
+    <meta property="twitter:url"         content="https://muraflex.com/en/about-us">
+    <meta property="twitter:title"       content="About us">
+    <meta property="twitter:image"       content="https://muraflex.com/assets/images/placeholders/default.jpg">
+    <meta property="twitter:description" content="Muraflex offers European-inspired design-savvy demountable glass office wall system and freestanding pods to create a distinguished work environment, bringing elegance and purpose together. Our 6 lines are: MIMO, FINO, EXPO, PLANIKA, ARCO and ZITTO. ">
+
+
+    <link rel="stylesheet" href="../assets/styles/main.css?v=0.31">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+        <script src="https://www.google.com/recaptcha/api.js?hl=en&render=explicit" async defer></script>
+
+    
+</head>
+<body>
+    <header class="c-header" data-module="Header">
+        <a href="../index.html" class="c-header_logo">
+            <svg class="c-header_logo_image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432 74.38">
+              <g class="c-header_logo_image-mura">
+                <path d="M0,19.74H49.29q11.28,0,16.18,5.48Q69.63,30,69.62,39.75V74.38H56.75V41.59c0-3.82-.55-6.47-1.67-8-1.28-1.28-3.52-1.91-6.7-1.91H41.24V74.38H28V31.73H12.87V74.38H0Z" />
+                <path d="M129.76,74.38H105.54q-11.28,0-16-5.53-4.16-4.75-4.16-14.48V19.74H98.21V53.23c0,3.25.43,5.47,1.3,6.68,1.19,1.66,3.53,2.48,7,2.48h10.35V19.74h12.87Z" />
+                <path d="M145.74,19.74h21.58q8,0,11.08,3.68Q181,26.48,181,33.53v9.12H168.65V35.48c0-2.13-.28-3.56-.85-4.29s-2.25-1.05-4.66-1.05h-4.53V74.38H145.74Z" />
+                <path d="M195.87,19.74h26.31q20.06,0,20,20.42V74.38H207.67q-7.69,0-11.67-4.86-3.48-4.18-3.47-10.91c0-6,1.42-10.34,4.28-13q4.59-4.35,15.2-4.35h17V39.86q0-4.94-2.92-7c-1.73-1.23-4.65-1.85-8.74-1.85H195.87ZM213,63.45h16V52.17H214c-2.95,0-5,.42-6.22,1.25-1.15,1-1.72,2.6-1.72,4.78,0,2,.53,3.39,1.6,4.13S210.53,63.45,213,63.45Z" />
+              </g>
+              <g class="c-header_logo_image-flex">
+                <path d="M262.44,30.49h-9.17V19.74h9.17V14.15q0-7.43,2.3-10.41Q267.66,0,276,0h12V10.57h-6.09a7.61,7.61,0,0,0-4.61,1.13A4.86,4.86,0,0,0,276,15.36v4.38h12V30.49H276V74.38H262.44Z" />
+                <path d="M315.48,74.38H301.9V0h13.58Z" />
+                <path d="M353.59,74.38q-24.52,0-24.53-27.34t24.53-27.3h18.65V31h-16.9c-4.5,0-7.62.78-9.38,2.33s-2.63,4.24-2.63,8.07h28.91V52.88H343.33q0,5.81,2.51,8t9.44,2.21h17V74.38Z" />
+                <path d="M399.33,47.13l-18-27.39h15l10.29,16.35,10.7-16.35H432L414.21,47.45l17.68,26.93H416.82L406.65,58.53l-10.4,15.85H381.41Z" />
+              </g>
+            </svg>
+
+        </a>
+        <button class="c-header_burger js-header-navbutton" type="button">
+            <span class="c-header_burger_icon"></span>
+        </button>
+    </header>
+
+    <div class="o-pages-wrapper" id="js-pjax-wrapper" style="opacity: 0;">
+        <div class="js-pjax-container || t-default" data-template="about" data-theme="light">
+
+            <nav class="c-nav">
+                <div class="c-nav_wrap" data-module="Nav">
+                    <div class="c-nav_empty-margin || js-empty-margin"></div>
+                    <div class="o-layout">
+                        <div class="o-layout_item u-40@from-medium ||  c-nav_main-wrapper">
+                            <div class="c-nav_main">
+                                <ul class="c-nav_main_list">
+                                    <li class="c-nav_main_item">
+                                        <a class="c-nav_main_link"
+                                           href="about-us"
+                                           
+                                        >About us</a>
+                                    </li>
+                                    <li class="c-nav_main_item">
+                                        <a class="c-nav_main_link -dot"
+                                           href="https://muraflex-zitto.com/"
+                                           target="_blank"
+                                        >Customize Zitto</a>
+                                    </li>
+                                    <li class="c-nav_main_item">
+                                        <a class="c-nav_main_link"
+                                           href="portfolio"
+                                           
+                                        >Portfolio</a>
+                                    </li>
+                                    <li class="c-nav_main_item">
+                                        <a class="c-nav_main_link"
+                                           href="careers"
+                                           
+                                        >Careers</a>
+                                    </li>
+                                    <li class="c-nav_main_item">
+                                        <a class="c-nav_main_link"
+                                           href="contact"
+                                           
+                                        >Contact</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="o-layout_item u-60@from-medium || c-nav_products-wrapper">
+                            <div class="c-nav_products-filters">
+                                <div class="c-nav_products-filters_inner || js-filters">
+                                    <span class="c-nav_products-filters_item -active || js-category" data-category="all">All products<sup>6</sup></span>
+                                        <span class="c-nav_products-filters_item || js-category" data-category="glazed">Solid Glass Wall Systems<sup>3</sup></span>
+                                        <span class="c-nav_products-filters_item || js-category" data-category="demising">Demising wall systems<sup>1</sup></span>
+                                        <span class="c-nav_products-filters_item || js-category" data-category="freestanding">Freestanding systems<sup>2</sup></span>
+                                        <span class="c-nav_products-filters_item || js-category" data-category="telescoping">Telescoping doors<sup>1</sup></span>
+                                </div>
+                            </div>
+                            <div class="c-nav_products-list || o-layout || js-list">
+                                    <a class="c-nav_product-link -visible o-layout_item || js-product" href="mimo" draggable="false" data-categories="glazed">
+                                        <span class="c-nav_product-link_wrap">
+                                            <span class="c-nav_product-link_background">
+                                                <span class="o-background" style="background-image: url('../uploads/products/MIMO/Header/MIMO_polished_aluminum_offset_glazed_pivot_frameless_ladder_pull-960x1200.jpg');"></span>
+                                            </span>
+                                        </span>
+                                        <span class="c-nav_product-link_name o-h1">Mimo</span>
+                                        <span class="c-nav_product-link_description">Put less between <br>you and your vision</span>
+                                    </a>
+                                    <a class="c-nav_product-link -visible o-layout_item || js-product" href="fino" draggable="false" data-categories="glazed">
+                                        <span class="c-nav_product-link_wrap">
+                                            <span class="c-nav_product-link_background">
+                                                <span class="o-background" style="background-image: url('../uploads/products/FINO/Header/Muraflex_MIMO_HIPNY-IHSMARKITNYHEADQUARTERS-171002-0006_(1)-960x1200.jpg');"></span>
+                                            </span>
+                                        </span>
+                                        <span class="c-nav_product-link_name o-h1">Fino</span>
+                                        <span class="c-nav_product-link_description">Thin. Modern. Architectural.</span>
+                                    </a>
+                                    <a class="c-nav_product-link -visible o-layout_item || js-product" href="expo" draggable="false" data-categories="glazed,telescoping">
+                                        <span class="c-nav_product-link_wrap">
+                                            <span class="c-nav_product-link_background">
+                                                <span class="o-background" style="background-image: url('../uploads/products/EXPO/Header/Muraflex_EXPO_BiNW_Showroom-1-960x1200.jpg');"></span>
+                                            </span>
+                                        </span>
+                                        <span class="c-nav_product-link_name o-h1">Expo</span>
+                                        <span class="c-nav_product-link_description">Stands ready for action. <br>Retreats with ease.</span>
+                                    </a>
+                                    <a class="c-nav_product-link -visible o-layout_item || js-product" href="planika" draggable="false" data-categories="demising">
+                                        <span class="c-nav_product-link_wrap">
+                                            <span class="c-nav_product-link_background">
+                                                <span class="o-background" style="background-image: url('../uploads/products/PLANIKA/IMAGES/HEADER_Image1-960x1200.jpg');"></span>
+                                            </span>
+                                        </span>
+                                        <span class="c-nav_product-link_name o-h1">Planika</span>
+                                        <span class="c-nav_product-link_description">Dressed with style. </span>
+                                    </a>
+                                    <a class="c-nav_product-link -visible o-layout_item || js-product" href="arco" draggable="false" data-categories="freestanding">
+                                        <span class="c-nav_product-link_wrap">
+                                            <span class="c-nav_product-link_background">
+                                                <span class="o-background" style="background-image: url('../uploads/products/ARCO/Header/Muraflex_ARCO_Image 3 (1)-960x1200.jpg');"></span>
+                                            </span>
+                                        </span>
+                                        <span class="c-nav_product-link_name o-h1">Arco</span>
+                                        <span class="c-nav_product-link_description">Multipurpose pod</span>
+                                    </a>
+                                    <a class="c-nav_product-link -visible o-layout_item || js-product" href="zitto" draggable="false" data-categories="freestanding">
+                                        <span class="c-nav_product-link_wrap">
+                                            <span class="c-nav_product-link_background">
+                                                <span class="o-background" style="background-image: url('../uploads/products/ZITTO/Muraflex_-_POD-opt01_(1)-960x1200.jpg');"></span>
+                                            </span>
+                                        </span>
+                                        <span class="c-nav_product-link_name o-h1">Zitto</span>
+                                        <span class="c-nav_product-link_description">Freestanding pod</span>
+                                    </a>
+                            </div>
+                            <div class="c-nav_products-next-wrapper || js-next-wrapper">
+                                <button class="c-nav_products-next || js-next-btn">
+                                    <svg role="img" title="Previous"><use xlink:href="assets/images/sprite.svg#arrow-next"></use></svg>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+
+<div class="o-scroll" data-module="Scroll">
+    <main>
+        <div class="o-layout -right">
+            <div class="o-layout_item -main">
+
+                <div class="c-header-page">
+                    <div class="c-header-page_outer">
+                        <div class="c-header-page_inner js-animate" data-speed="-1.25" data-position="top" style="background-image: url('../uploads/sections/About/ABOUT-1920x1080.jpg');">
+                            <img src="../uploads/sections/About/ABOUT-1920x1080.jpg" class="js-preload" alt="About" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="c-page-content -overlap">
+                    <div class="o-container -medium || u-padding-top">
+                        <div class="o-layout -gutter">
+                            <div class="o-layout_item u-1/2@from-small">
+                                <h2>
+                                    <span class="u-block || js-animate || o-fade-in">Muraflex</span>
+                                    <span class="u-block || js-animate || o-fade-in">Changing</span>
+                                    <span class="u-block || js-animate || o-fade-in"><span class="o-h_line"></span>the Game</span>
+                                    <span class="u-block || js-animate || o-fade-in">in Glass Walls</span>
+                                </h2>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-padded -right -medium">
+                        <div class="o-layout  -gutter -gutter-large@from-large -reverse@from-medium || c-offset-cols">
+                            <div class="o-layout_item u-1/3@from-medium u-1/2@from-small || c-offset-cols_item || js-animate" data-speed="0">
+                                <div class="u-margin-bottom-large || js-animate || o-fade-in">
+                                    <h3>Design</h3>
+                                    <p>Muraflex is all about good design. Muraflex products are not only high-performing but also always emblematic of sophistication and refinement. From our walls to our free-standing pods, our products are architectural elements that beautify a space.</p>
+                                </div>
+
+                                <div class="u-margin-bottom-large || js-animate || o-fade-in">
+                                    <h3>Adaptability</h3>
+                                    <p>Adaptability, versatility and flexibility are key words for our products as well as our people. Not only do we seek to make our products easily demountable and moveable, we also always attend to our clients’ specific needs. We know that every project is unique, and some might need a custom option. At Muraflex, we have a team of people that will work to make these designs come to life.</p>
+                                </div>
+                            </div>
+
+                            <div class="o-layout_item u-1/3@from-medium u-1/2@from-small || c-offset-cols_item || js-animate" data-speed="1">
+                                <div class="u-margin-bottom-large || js-animate || o-fade-in">
+                                    <h3>Service</h3>
+                                    <p>At Muraflex, we keep the end-user in mind every step of the way. From wall research and development to after sales service, we have a seasoned team of engineers, local representatives, project managers and after sales service consultants who is dedicated to ensure that every clients’ expectations are surpassed.</p>
+                                </div>
+
+                                <div class="u-margin-bottom-large || js-animate || o-fade-in">
+                                    <h3>Quality</h3>
+                                    <p>It is part of Muraflex’s mission to deliver top quality products. Never one without the other, we deliver an extraordinary design aesthetic with high quality results. Our team of engineers across North America and Europe work together with our clients to create the highest performing wall systems.</p>
+                                </div>
+                            </div>
+
+                            <div class="o-layout_item u-1/3@from-medium u-1/2@from-small || c-offset-cols_item || js-animate || u-relative" data-speed="1">
+                                <span class="o-line -h -bl -desktop js-animate" data-speed="4.5" data-horizontal="true"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-container || o-module">
+                        <div class="o-padded -left -small">
+                            <div class="c-video" data-module="Video">
+                                <div class="c-video_overlay || js-video-overlay">
+                                    <div class="c-video_overlay-bg" style="background-image: url('https://img.youtube.com/vi/El294hfZQas/maxresdefault.jpg');"></div>
+                                    <div class="c-video_overlay-inner">
+                                        <div class="c-video_overlay-icon">
+                                            <svg role="img"><use xlink:href="assets/images/sprite.svg#play"></use></svg>
+                                        </div>
+                                        <span class="c-video_overlay-label">Play video</span>
+                                    </div>
+                                </div>
+
+                                <div class="c-video_inner">
+                                    <iframe class="js-video-iframe" src="https://www.youtube.com/embed/El294hfZQas?enablejsapi=1" frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-container || o-module || c-env-labels">
+                        <div class="o-padded -medium -left">
+                            <div class="o-module_top">
+                                <div class="o-module_top_col || js-animate || o-fade-in">
+                                    <h2 class="js-animate" data-speed="0.5">Environment</h2>
+                                </div>
+                                <div class="o-module_top_col || js-animate || o-fade-in">
+                                    <p class="js-animate"  data-speed="0.25">At Muraflex, we are dedicated to diminishing our impact on the environment. We are also committed to continually improving our procedures in terms of product development, supply, packaging and distribution in an effort to minimize our environmental footprint.</p>
+                                </div>
+                            </div>
+                            <div class="o-layout u-margin-top || js-animate || o-fade-in">
+                                <div class="o-layout_item u-1/2@from-small || u-relative">
+                                    <span class="o-line -h -bl -desktop js-animate" data-speed="-4.5" data-horizontal="true"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@from-small">
+                                    <div class="c-env-labels_list">
+                                        <a href="../index.html" target="_blank" class="c-env-labels_item">
+                                            <img src="../uploads/About_Us/Environment/GreenguardGold-400x400.jpg" alt="Download PDF">
+                                        </a>
+                                        <a href="../index.html" target="_blank" class="c-env-labels_item">
+                                            <img src="../uploads/About_Us/Environment/LEED_US-400x400.jpg" alt="Download PDF">
+                                        </a>
+                                        <a href="../index.html" target="_blank" class="c-env-labels_item">
+                                            <img src="../uploads/About_Us/Environment/ADAcompliant-400x400.jpg" alt="Download PDF">
+                                        </a>
+                                        <a href="../index.html" target="_blank" class="c-env-labels_item">
+                                            <img src="../uploads/About_Us/Environment/UL_Listed.jpg" alt="Download PDF">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="o-container || o-module || js-animate || o-fade-in">
+                        <div class="o-padded -small -left">
+                            <figure>
+                                <img src="/assets/images/leed.jpg" alt="">
+                                <figcaption class="o-small">Lorem ipsum dolor sit amet, hic laboriosam ea eos perspiciatis odio, consequuntur voluptatem. Tenetur doloremque laudantium neque aperiam.</figcaption>
+                            </figure>
+                        </div>
+                    </div> -->
+
+                    <div class="o-container || o-module">
+                        <div class="o-padded -medium -left">
+                            <div class="o-module_top">
+                                <div class="o-module_top_col">
+                                    <h2 class="js-animate" data-speed="0.5">
+                                            <span class="u-block || o-fade-in || js-animate">Our</span>
+                                            <span class="u-block || o-fade-in || js-animate"><span class="o-h_line"></span>Team</span>
+                                    </h2>
+                                </div>
+                                <div class="o-module_top_col || js-animate" data-speed="0.25">
+                                    <p class="js-animate || o-fade-in">Muraflex is a team of passionate and unstoppable people. We do not only love what we do, we are also always challenging ourselves to reach higher, not only in the product we create, but also in the service we offer.</p>
+                                </div>
+                            </div>
+
+                            <div class="c-team">
+                                <div class="c-team_list" data-module="Accordion">
+                                        <div class="c-team_item -expandable || js-accordion-section || js-animate || o-fade-in">
+                                            <div class="c-team_item_head || js-accordion-header">
+                                                <img src="../uploads/team-member/Fernando_Petreccia_CEO_President_Executive_Muraflex.jpg" alt="Fernando Petreccia">
+                                                <div class="c-team_item_infos">
+                                                    <span class="o-h3 c-team_item_name">Fernando Petreccia</span>
+                                                    <span class="c-team_item_title">President &amp; CEO</span>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item_content || js-accordion-main">
+                                                <p>Fernando Petreccia, who spent most of his career in the commercial interiors industry, started Muraflex in 2009. Of Italian descent and with a vast experience in corporate architectural products, Fernando’s understanding of the market and his vision on design got Muraflex to carve its niche with a great impact. Almost 10 years later, Muraflex is present predominantly in the United States and Canada as one of the leading companies in the industry, and products of unparalleled beauty, sophistication, and design-savviness.</p>
+                                            </div>
+                                        </div>
+                                        <div class="c-team_item -expandable || js-accordion-section || js-animate || o-fade-in">
+                                            <div class="c-team_item_head || js-accordion-header">
+                                                <img src="../uploads/team-member/Marcello_Petreccia_VP_Muralfex_exectuive.jpg" alt="Marcello Petreccia">
+                                                <div class="c-team_item_infos">
+                                                    <span class="o-h3 c-team_item_name">Marcello Petreccia</span>
+                                                    <span class="c-team_item_title">Executive Vice President</span>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item_content || js-accordion-main">
+                                                <p>After being the executive for 20 years in a major architectural firm and with 25+ years of corporate architectural experience, Marcello established Muraflex with his brother Fernando Petreccia. A passionate leader, Marcello pushes the team to always deliver better innovation, design and performance.     </p>
+                                            </div>
+                                        </div>
+                                        <div class="c-team_item -expandable || js-accordion-section || js-animate || o-fade-in">
+                                            <div class="c-team_item_head || js-accordion-header">
+                                                <img src="../uploads/team-member/Patrick_mathieu_COO_Operations_VP_Muralfex.jpg" alt="Patrick Mathieu">
+                                                <div class="c-team_item_infos">
+                                                    <span class="o-h3 c-team_item_name">Patrick Mathieu</span>
+                                                    <span class="c-team_item_title">Vice President of Operations </span>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item_content || js-accordion-main">
+                                                <p>Patrick Mathieu oversees the management of all areas of operations to direct activities ensuring that the production of all approved products are safely manufactured within quality standards, timing and cost objectives. With over 20 years of manufacturing operations experience, Patrick helps our team reach even higher levels of efficiency and seamlessness for our production cycle.
+</p>
+                                            </div>
+                                        </div>
+                                        <div class="c-team_item -expandable || js-accordion-section || js-animate || o-fade-in">
+                                            <div class="c-team_item_head || js-accordion-header">
+                                                <img src="../uploads/team-member/Rino_Lampasona_Finance_VP_Muralfex_exectuive.jpg" alt="Rino Lampasona">
+                                                <div class="c-team_item_infos">
+                                                    <span class="o-h3 c-team_item_name">Rino Lampasona</span>
+                                                    <span class="c-team_item_title">Vice President Finance</span>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item_content || js-accordion-main">
+                                                <p>Rino Lampasona is a CPA and leads the financial team at Muraflex. He has 20+ years of experience working in the private and manufacturing industry. Specializing in mergers and acquisitions, Rino is a major pillar for our fast growing company.   </p>
+                                            </div>
+                                        </div>
+                                        <div class="c-team_item -expandable || js-accordion-section || js-animate || o-fade-in">
+                                            <div class="c-team_item_head || js-accordion-header">
+                                                <img src="../uploads/team-member/Sebastien_Daviault_Sales_VP_Muralfex.jpg" alt="Sébastien Daviault">
+                                                <div class="c-team_item_infos">
+                                                    <span class="o-h3 c-team_item_name">Sébastien Daviault</span>
+                                                    <span class="c-team_item_title">National Sales Director </span>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item_content || js-accordion-main">
+                                                <p>As the Director of National Sales, Sébastien leads our sales team and works directly with our comprehensive group of representatives and dealers throughout North America. After starting his career in case goods and developing a passion and expertise in commercial and corporate furniture, Sébastien joined the Muraflex team at its beginnings and with his go-getter and team player attitude has been a major contributor to the company’s spurting growth.</p>
+                                            </div>
+                                        </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/John_Allen_Mervin_Muraflex_East_COast_Sales_Manager_VP.jpg" alt="John Alan Mervin">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">John Alan Mervin</span>
+                                                        <span class="c-team_item_title">East Coast Regional Vice President</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Diana_Matteson.jpg" alt="Diana Matteson">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Diana Matteson</span>
+                                                        <span class="c-team_item_title">West Coast Sales Manager</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Jen_DelMonico_VP_Muraflex_Regional_Sales_Manager_Region_Central_US.jpg" alt="Jen DelMonico">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Jen DelMonico</span>
+                                                        <span class="c-team_item_title">Central Sales Manager</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Sarah_Weill_Marketing_Business_Development_VP_Muralfex.jpg" alt="Sarah Weill">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Sarah Weill</span>
+                                                        <span class="c-team_item_title">Marketing Director</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Steven_Volpintesta_vp_estimation_director_executive_muraflex.jpg" alt="Steven Volpintesta">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Steven Volpintesta</span>
+                                                        <span class="c-team_item_title">Estimating Director</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Martin_Belanger_ing_Research_and_Development_EngeneeringVP_Muralfex.jpg" alt="Martin Bélanger">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Martin Bélanger</span>
+                                                        <span class="c-team_item_title">Research and Development Director</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Analia_Ayulo_Human_resourcesVP_Muralfex.jpg" alt="Analia Ayulo">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Analia Ayulo</span>
+                                                        <span class="c-team_item_title">Human Resource Director</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="c-team_item -small || js-animate || o-fade-in">
+                                                <div class="c-team_item_head">
+                                                    <img src="../uploads/team-member/Nelan_Ambikaipahan_VP_client_service_Muralfex.jpg" alt="Nelan Ambikaipahan">
+                                                    <div class="c-team_item_infos">
+                                                        <span class="o-h3 c-team_item_name">Nelan Ambikaipahan</span>
+                                                        <span class="c-team_item_title">Field Project Manager</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-container || o-module || c-grid -bg">
+                        <div class="o-padded -medium -left">
+                            <div class="o-module_top">
+                                <div class="o-module_top_col || js-animate" data-speed="0.5">
+                                    <h2>
+                                        <span class="u-block || o-fade-in || js-animate">Our</span>
+                                        <span class="u-block || o-fade-in || js-animate"><span class="o-h_line"></span>Awards</span>
+                                    </h2>
+                                </div>
+                                <div class="o-module_top_col || js-animate" data-speed="0.25">
+                                    <p class="o-fade-in || js-animate">Over the years, Muraflex is proud to have been the recipient of various awards. Whether for our design or our performance, each of our products have been recognized by the industry, while our company for its people.</p>
+                                </div>
+                            </div>
+
+                            <div class="o-layout -gutter-large || c-grid_list">
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Awards/Logos/Pemio_Venezia_winner-400x400.jpg" alt="Premio Venezia 2018" />
+
+                                    <span class="c-grid_title">Premio Venezia 2018</span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Awards/Logos/HiP_interior_design_winner_2016_neocon-400x400.jpg" alt="HiP 2016 Interior Design / NeoCon winners" />
+
+                                    <span class="c-grid_title">HiP 2016 Interior Design / NeoCon winners</span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Awards/Logos/Prix_Estim_2016-400x400.jpg" alt="Prix Estim winner 2016" />
+
+                                    <span class="c-grid_title">Prix Estim winner 2016</span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Awards/Logos/Architizer_A_Awards-400x400.jpg" alt="Architizer A+ Awards winner 2016" />
+
+                                    <span class="c-grid_title">Architizer A+ Awards winner 2016</span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Awards/Logos/Prix_Estim_2014-400x400.jpg" alt="CCEM Prix Estim winner 2014" />
+
+                                    <span class="c-grid_title">CCEM Prix Estim winner 2014</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-container || o-module || js-animate || o-fade-in">
+                        <div class="o-padded -left -small">
+                            <div class="c-carousel" data-module="Carousel" data-name="Unique Solution">
+                                <div class="c-carousel_container || swiper-container || js-slider">
+                                    <div class="c-carousel_wrapper || swiper-wrapper">
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Premio Venezia 2018 winners" data-image="uploads/About_Us/Awards/Premio_Venezia_2018_winner_4-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Premio_Venezia_2018_winner_4-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Premio_Venezia_2018_winner_4-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Premio Venezia 2018 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Premio Venezia 2018 winners" data-image="uploads/About_Us/Awards/Premio_Venezia_2018_winner_2-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Premio_Venezia_2018_winner_2-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Premio_Venezia_2018_winner_2-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Premio Venezia 2018 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Prix Estim 2016 winners" data-image="uploads/About_Us/Awards/Estim_2016_winner_3-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Estim_2016_winner_3-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Estim_2016_winner_3-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Prix Estim 2016 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="CCEM Prix Estim 2014 winners" data-image="uploads/About_Us/Awards/Estim_2016_winner_6-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Estim_2016_winner_6-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Estim_2016_winner_6-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        CCEM Prix Estim 2014 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Prix Estim 2016 winners" data-image="uploads/About_Us/Awards/Estim_2016_winner_1-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Estim_2016_winner_1-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Estim_2016_winner_1-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Prix Estim 2016 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Prix Estim 2016 winners" data-image="uploads/About_Us/Awards/Estim_2016_winner_2-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Estim_2016_winner_2-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Estim_2016_winner_2-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Prix Estim 2016 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Architizer A+ Awards winner 2016" data-image="uploads/About_Us/Awards/AnA_2016_winner_4-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/AnA_2016_winner_4-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/AnA_2016_winner_4-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Architizer A+ Awards winner 2016
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Premio Venezia 2018 winners" data-image="uploads/About_Us/Awards/Premio_Venezia_2018_winner_5-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Premio_Venezia_2018_winner_5-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Premio_Venezia_2018_winner_5-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Premio Venezia 2018 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="Architizer A+ Awards winner 2014" data-image="uploads/About_Us/Awards/AnA_2016_winner_3-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/AnA_2016_winner_3-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/AnA_2016_winner_3-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        Architizer A+ Awards winner 2014
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="c-carousel_slide || swiper-slide || js-slide" data-title="" data-desc="CCEM Prix Estim 2014 winners" data-image="uploads/About_Us/Awards/Prix_Estim_2014_winner_1-1920x1080.jpg">
+                                                <figure>
+                                                    <div class="c-carousel_slide_img" style="background-image: url('../uploads/About_Us/Awards/Prix_Estim_2014_winner_1-1920x1080.jpg');">
+                                                        <img src="../uploads/About_Us/Awards/Prix_Estim_2014_winner_1-1920x1080.jpg" alt="">
+                                                    </div>
+                                                    <figcaption class="o-small || c-carousel_slide_caption">
+                                                        CCEM Prix Estim 2014 winners
+                                                    </figcaption>
+                                                </figure>
+                                            </div>
+                                    </div>
+                                </div>
+
+                                <div class="c-carousel_arrows">
+                                    <div class="c-carousel_arrow || js-prev"><svg role="img"><use xlink:href="assets/images/sprite.svg#arrow-prev"></use></svg></div>
+                                    <div class="c-carousel_arrow || js-next"><svg role="img"><use xlink:href="assets/images/sprite.svg#arrow-next"></use></svg></div>
+                                </div>
+
+                                <div class="c-carousel_mouseover">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="o-container || o-module || c-grid -bg">
+                        <div class="o-padded -medium -left">
+                            <div class="o-module_top">
+                                <div class="o-module_top_col || js-animate" data-speed="0.5">
+                                    <h2>
+                                        <span class="u-block || o-fade-in || js-animate">Our</span>
+                                        <span class="u-block || o-fade-in || js-animate"><span class="o-h_line"></span>Clients</span>
+                                    </h2>
+                                </div>
+                                <div class="o-module_top_col || js-animate" data-speed="0.25">
+                                    <p class="o-fade-in || js-animate">We warmly thank each of our clients for the opportunity of creating elegant and functional spaces in collaboration with them. We will continue to raise the bar and bring to the market design-savvy and performing architectural pieces. At Muraflex, your vision is unrestricted.</p>
+                                </div>
+                            </div>
+
+                            <div class="o-layout -gutter-large || c-grid_list">
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Starbuckslogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Sidleu_Austin_LLPlogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Littlerlogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Akamailogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/CBRElogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Fox_Rothschildlogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Googlelogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Etradelogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/GreenbergTauriglogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Hensel_Phelpslogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/PWClogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Montreal_Impact-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/TD_Ameritradelogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/TishmanSpeyerlogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/UCSFlogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                                <div class="o-layout_item u-1/2@to-medium u-1/3@from-medium || c-grid_item -centered || o-fade-in || js-animate">
+                                    <img class="c-grid_logo" src="../uploads/About_Us/Our_Clients/Willislogo-400x400.png" alt="" />
+
+                                    <span class="c-grid_title"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="c-footer || js-animate" data-callback="footerInview.App()" data-repeat data-viewport-offset="0.8,0">
+        <div class="o-container -small">
+            <div class="c-footer_inner -desktop">
+                <div class="c-footer_main o-layout -flex -middle">
+                    <div class="o-layout_item u-5/6">
+                        <h3 class="o-h1 -nomargin">
+                            <div class="js-animate" data-speed="0.25" data-position="bottom">Where </div>
+                            <div class="js-animate" data-speed="0.75" data-position="bottom">elegance </div>
+                            <div class="js-animate" data-speed="1.25" data-position="bottom">meets </div>
+                            <div class="js-animate" data-speed="1.75" data-position="bottom">functionality.</div>
+                        </h3>
+                    </div>
+                    <div class="o-layout_item u-1/6">
+                        <nav class="c-footer_nav">
+                            <ul class="c-footer_nav_list">
+                                <li>
+                                    <a class="c-footer_link"
+                                       href="about-us"
+                                       
+                                    >About us</a>
+                                </li>
+                                <li>
+                                    <a class="c-footer_link -dot"
+                                       href="https://muraflex-zitto.com/"
+                                       target="_blank"
+                                    >Customize Zitto</a>
+                                </li>
+                                <li>
+                                    <a class="c-footer_link"
+                                       href="portfolio"
+                                       
+                                    >Portfolio</a>
+                                </li>
+                                <li>
+                                    <a class="c-footer_link"
+                                       href="careers"
+                                       
+                                    >Careers</a>
+                                </li>
+                                <li>
+                                    <a class="c-footer_link"
+                                       href="contact"
+                                       
+                                    >Contact</a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="o-layout || c-footer_coords">
+                    <div class="o-layout_item u-2/6">
+                        <a class="c-footer_link -small -line" href="tel:4504623632">Phone. 450-462-3632</a>
+                    </div>
+                    <div class="o-layout_item u-2/6 u-text-center">
+                        <a class="c-footer_link -small" href="tel:4504627972">Fax. 450-462-7972</a>
+                    </div>
+                    <div class="o-layout_item u-2/6 u-text-right">
+                        <a class="c-footer_link -small" href="tel:18669623632">Toll Free. 1-866-962-3632</a>
+                    </div>
+                    <div class="o-layout_item">
+                        <span class="c-footer_credits -desktop">Website by <a href="https://locomotive.ca/" target="_blank">Locomotive</a></span>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="c-footer_inner -mobile">
+                <div class="c-footer_social">
+                    <span>Follow us</span>
+    
+                    <ul class="c-footer_social_list">
+                        <li><a href="https://www.facebook.com/muraflex/" target="_blank"><svg role="img"><use xlink:href="assets/images/sprite.svg#social-facebook"></use></svg></a></li>
+                        <li><a href="https://twitter.com/Muraflex?lang=en" target="_blank"><svg role="img"><use xlink:href="assets/images/sprite.svg#social-twitter"></use></svg></a></li>
+                        <li><a href="https://www.instagram.com/muraflex/" target="_blank"><svg role="img"><use xlink:href="assets/images/sprite.svg#social-instagram"></use></svg></a></li>
+                        <li><a href="https://www.linkedin.com/company/muraflex/" target="_blank"><svg role="img"><use xlink:href="assets/images/sprite.svg#social-linkedin"></use></svg></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    
+        <span class="c-footer_credits -mobile">Website by <a href="https://locomotive.ca/" target="_blank">Locomotive</a></span>
+    </footer></div>
+
+        </div>
+    </div>
+
+    <ul class="c-social">
+        <li class="c-social_item">
+            <a class="c-social_link" href="https://www.facebook.com/muraflex/" target="_blank">
+                <svg role="img"><use xlink:href="assets/images/sprite.svg#social-facebook"></use></svg>
+            </a>
+        </li>
+        <li class="c-social_item">
+            <a class="c-social_link" href="https://twitter.com/Muraflex?lang=en" target="_blank">
+                <svg role="img"><use xlink:href="assets/images/sprite.svg#social-twitter"></use></svg>
+            </a>
+        </li>
+        <li class="c-social_item">
+            <a class="c-social_link" href="https://www.instagram.com/muraflex/" target="_blank">
+                <svg role="img"><use xlink:href="assets/images/sprite.svg#social-instagram"></use></svg>
+            </a>
+        </li>
+        <li class="c-social_item">
+            <a class="c-social_link" href="https://www.linkedin.com/company/muraflex/" target="_blank">
+                <svg role="img"><use xlink:href="assets/images/sprite.svg#social-linkedin"></use></svg>
+            </a>
+        </li>
+    </ul>
+
+    <div class="c-global-loader">
+        <div class="o-loader"></div>
+    </div>
+
+    <div class="c-modal-carousel" data-module="CarouselModal">
+        <div class="c-modal-carousel_inner">
+            <div class="c-modal-carousel_infos">
+                <div class="o-h3 || js-title"></div>
+    
+                <p class="c-modal-carousel_descs || o-small || js-desc"></p>
+            </div>
+            <div class="c-modal-carousel_container || swiper-container || js-slider">
+                <div class="c-modal-carousel_wrapper || swiper-wrapper">
+                    <!--  <?php for($i = 1; $i < 5; $i++) { ?>
+                     <div class="c-modal-carousel_slide || swiper-slide">
+                         <div class="c-modal-carousel_slide_img" style="background-image: url('assets/images/temp/carousel/<?= $i; ?>.jpg');">
+                             <img src="assets/images/temp/carousel/<?= $i; ?>.jpg" alt="">
+                         </div>
+                     </div>
+                     <?php } ?> -->
+                </div>
+            </div>
+    
+            <div class="c-modal-carousel_arrows">
+                <div class="c-modal-carousel_arrow || js-prev"><svg role="img"><use xlink:href="assets/images/sprite.svg#arrow-prev"></use></svg></div>
+                <div class="c-modal-carousel_arrow || js-next"><svg role="img"><use xlink:href="assets/images/sprite.svg#arrow-next"></use></svg></div>
+            </div>
+    
+            <div class="c-modal-carousel_pager || js-pager">
+                <span class="c-modal-carousel_pager_current">00</span>
+                <span class="c-modal-carousel_pager_total">00</span>
+            </div>
+    
+            <div class="c-modal-carousel_close || js-close">
+                <svg role="img"><use xlink:href="assets/images/sprite.svg#cross"></use></svg>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        
+    </footer>
+
+    <script>
+        window.google_console = 'AIzaSyA9svQeUhpHcgdY4ouZ97ZyYZdqAGGYy3w';
+        window.recaptchaKey = '6Lff9IcUAAAAAOArvKg6GaJEwWZ_VEPSmncGmfzO';
+    </script>
+
+        <script src="https://www.google.com/recaptcha/api.js?hl=en&render=explicit" async defer></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../assets/scripts/jquery-3.2.1.min.js"><\/script>')</script>
+    <script src="../assets/scripts/vendors.js?v=0.31"></script>
+    <script src="../assets/scripts/app.js?v=0.31"></script>
+
+</body>
+</html>
